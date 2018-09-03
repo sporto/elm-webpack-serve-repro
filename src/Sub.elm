@@ -1,4 +1,4 @@
-module Sub exposing (..)
+module Sub exposing (view)
 
 import Html exposing (Html)
 

@@ -1,7 +1,8 @@
-module Main exposing (..)
+module Main exposing (main)
 
 import Html exposing (..)
 import Sub
+
 
 main : Html msg
 main =
